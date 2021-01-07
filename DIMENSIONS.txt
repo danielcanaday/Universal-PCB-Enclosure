@@ -1,0 +1,5 @@
+﻿"LENGTH"= 3.7in			'longest of two dimensions of pcb
+"WIDTH"= 2.4in			'shortest of two dimensions of pcb
+"HOLE_DIA"= 0.1in		'mounting hole diameter
+"HOLE_DIST"= 0.137795in		'distance to mount hole centerline from edge of PCB
+"HEIGHT"= 0.944882in		'height of the enclosure
